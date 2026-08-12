@@ -8,3 +8,7 @@
 - # How will you stay consistent every single day?
 - -Staying consistent every day requires replacing reliance on fleeting motivation with rigid, pre-determined constraints, such as scheduling specific times and places for habits
 - 
+
+
+
+
