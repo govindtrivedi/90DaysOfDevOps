@@ -16,4 +16,4 @@ System.
 
 ## What systemd does and why it matters.
 
-. systemd is a comprehensive system and service manager for Linux operating systems that serves as the default initialization system (init system) for almost all modern, major Linux distributions. As the first process to run during boot (PID 1), it brings up, configures, and maintains userspace services, replacing older, slower methods like SysVinit. 
+. systemd is a comprehensive system and service manager for Linux operating systems that serves as the default initialization system (init system) for almost all modern, major Linux distributions. As the first process to run during boot (PID 1), it brings up, configures, and maintains userspace services, replacing older, slower methods like SysVinit......
